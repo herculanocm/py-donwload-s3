@@ -1,0 +1,7 @@
+file_path_log =  'C:\\ESTUDOS\\python\\DownloadPFTransacoes\\teste\\'
+file_name_log = 'nomeArquivoLog'
+bucket_name = 'dsv-bi-tribanco'
+file_ext_name = '.csv'
+aws_access_key_id='AKIAJXLV6FNK4IX4USSA'
+aws_secret_access_key='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'
+file_path_downloads = 'C:\\ESTUDOS\\python\\DownloadPFTransacoes\\download\\'

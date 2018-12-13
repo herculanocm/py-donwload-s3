@@ -1,0 +1,13 @@
+2018-12-13 11:23:52,925 - 8 - DEBUG    - Iniciando execução
+2018-12-13 11:23:52,925 - 21 - DEBUG    - Data Inicial 2018-11-01 e final 2020-11-01 obtidos
+2018-12-13 11:23:52,925 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2018-12-13 11:23:53,394 - 36 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2018-12-13 11:23:54,144 - 38 - DEBUG    - Objetos do bucket listados com sucesso
+2018-12-13 11:23:54,144 - 42 - DEBUG    - Filtrando objetos entre as datas informadas
+2018-12-13 11:23:54,144 - 46 - DEBUG    - Arquivo informado para download : ObjectAWS: [objectId : 2018/12/11/transacoes-2018-12-11.csv, nome: transacoes-2018-12-11.csv, data: 2018-12-11]
+2018-12-13 11:23:54,144 - 48 - DEBUG    - Realizando download... : transacoes-2018-12-11.csv
+2018-12-13 11:23:54,473 - 50 - DEBUG    - Download realizado do arquivo : transacoes-2018-12-11.csv, pasta : C:\ESTUDOS\python\DownloadPFTransacoes\download\
+2018-12-13 11:23:54,473 - 46 - DEBUG    - Arquivo informado para download : ObjectAWS: [objectId : transacoes/2018/12/11/transacoes-2018-12-11.csv, nome: transacoes-2018-12-11.csv, data: 2018-12-11]
+2018-12-13 11:23:54,473 - 48 - DEBUG    - Realizando download... : transacoes-2018-12-11.csv
+2018-12-13 11:23:54,832 - 50 - DEBUG    - Download realizado do arquivo : transacoes-2018-12-11.csv, pasta : C:\ESTUDOS\python\DownloadPFTransacoes\download\
+2018-12-13 11:23:54,832 - 57 - DEBUG    - Finalizado execução
