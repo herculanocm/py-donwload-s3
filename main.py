@@ -8,8 +8,8 @@ f_logger = config_logger(file_path_log, file_name_log)
 f_logger.log(10, 'Iniciando execução')
 
 iterator = 0
-strDtaInicial = '2018-11-01'
-strDtaFinal = '2020-11-01'
+strDtaInicial = '2018-01-01'
+strDtaFinal = '2020-01-01'
 for arg in sys.argv:
     iterator += 1
     if iterator == 2:
