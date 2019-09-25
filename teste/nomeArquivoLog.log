@@ -57,3 +57,86 @@
 2018-12-14 11:33:13,309 - 48 - DEBUG    - Realizando download... : transacoes-2018-12-11.csv
 2018-12-14 11:33:13,643 - 50 - DEBUG    - Download realizado do arquivo : transacoes-2018-12-11.csv, pasta : C:\ESTUDOS\python\DownloadPFTransacoes\download\
 2018-12-14 11:33:13,644 - 57 - DEBUG    - Finalizado execu��o
+2019-01-14 10:57:46,773 - 8 - INFO     - Logando
+2019-01-14 10:59:54,936 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:01:14,884 - 10 - DEBUG    - Iniciando execucao
+2019-01-14 11:01:25,822 - 10 - DEBUG    - Iniciando execução
+2019-01-14 11:01:42,604 - 10 - DEBUG    - Iniciando execução
+2019-01-14 11:01:42,604 - 23 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:02:04,164 - 10 - DEBUG    - Iniciando execução
+2019-01-14 11:02:04,164 - 23 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:02:04,164 - 27 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:02:41,338 - 10 - DEBUG    - Iniciando execução
+2019-01-14 11:02:41,338 - 23 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:02:41,338 - 27 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:02:43,964 - 36 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:02:46,417 - 38 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:06:38,257 - 10 - DEBUG    - Iniciando execução
+2019-01-14 11:06:38,257 - 23 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:06:38,257 - 27 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:06:39,714 - 36 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:06:40,464 - 38 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:09:30,987 - 10 - DEBUG    - Iniciando execução
+2019-01-14 11:09:30,987 - 23 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:09:30,987 - 27 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:09:32,112 - 36 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:09:32,846 - 38 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:11:51,825 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:11:51,825 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:11:51,825 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:11:52,877 - 34 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:11:53,562 - 36 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:12:57,558 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:12:57,558 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:12:57,558 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:12:58,654 - 33 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:12:58,654 - 35 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:14:42,674 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:14:42,674 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:14:42,674 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:14:43,829 - 33 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:14:44,532 - 35 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:15:47,055 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:15:47,055 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:15:47,055 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:15:48,131 - 33 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:15:48,811 - 35 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:16:27,128 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:16:27,128 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:16:27,128 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:16:28,253 - 33 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:16:28,846 - 35 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:16:57,163 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:16:57,163 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:16:57,163 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:16:58,272 - 33 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:16:59,022 - 35 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:27:24,096 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:27:24,096 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:27:24,096 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:29:01,473 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:29:01,473 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:29:01,473 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:34:01,960 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:34:01,960 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:34:01,960 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:42:57,746 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:42:57,746 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:42:57,746 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:47:57,308 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:47:57,308 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:47:57,308 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:49:01,112 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:49:01,112 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:49:01,112 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:49:35,530 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:49:35,530 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:49:35,530 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:49:36,660 - 33 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:49:37,410 - 35 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:50:45,009 - 8 - DEBUG    - Iniciando execucao
+2019-01-14 11:50:45,009 - 21 - DEBUG    - Data Inicial 2018-01-01 e final 2020-01-01 obtidos
+2019-01-14 11:50:45,009 - 25 - DEBUG    - Configurando cliente com key id e secret key
+2019-01-14 11:50:46,086 - 33 - DEBUG    - Listando objetos bucket : dsv-bi-tribanco
+2019-01-14 11:50:46,868 - 35 - DEBUG    - Objetos do bucket listados com sucesso
+2019-01-14 11:50:46,868 - 39 - DEBUG    - Filtrando objetos entre as datas informadas
