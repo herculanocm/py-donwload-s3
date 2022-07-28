@@ -1,2 +1,2 @@
-# PODE USAR ME LEMBRE DE MIM (__|__)
+# PODE USAR ME LEMBRE DE MIM "(__|__)"
 
